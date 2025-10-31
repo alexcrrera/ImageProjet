@@ -1,3 +1,7 @@
+WRONG VERSION I NEED TO REUPLOAD THE CORRECT ONE BUT IT'S
+4 AM AND I WILL DO IT TOMORROW, HOPE THAT NO ONE SEES THIS!!!
+
+
 # ImageProjet
 Based on: Real-Time and Accurate Drone Detection in a Video  with a Static Background
 
