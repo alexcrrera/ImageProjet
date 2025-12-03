@@ -1,7 +1,5 @@
 # ImageProjet
 
-### folder was submitted to a wrong repo. **before** the deadline and is available on Moodle, this is just an online copy for me
-
 
 Based on: Real-Time and Accurate Drone Detection in a Video  with a Static Background
 
