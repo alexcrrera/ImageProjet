@@ -10,7 +10,7 @@ From:
 
 
 
-You can find the micro-rapport (PDF) here. This is my own implementation (limited by hardware, ressources, and time) of the proposed timeline. My first real experience with training a custom CNN.
+You can find the micro-rapport (PDF) here. This is my own implementation (limited by hardware, ressources, and time) of the proposed pipeline, as well as some modifications to both it and the training (to account again for the constraints). This is my first real experience with training a custom CNN.
 
 Training  set:
 
