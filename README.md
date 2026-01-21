@@ -9,6 +9,9 @@ From:
 [1] Seidaliyeva, Ulzhalgas & Akhmetov, Daryn & Ilipbayeva, Lyazzat & Matson, Eric. (2020). Real-Time and Accurate Drone Detection in a Video with a Static Background. Sensors. 20. 3856. 10.3390/s20143856. 
 
 
+
+You can find the micro-rapport (PDF) here. This is my own implementation (limited by hardware, ressources, and time) of the proposed timeline. My first real experience with training a custom CNN.
+
 Training  set:
 
 [2] F. Svanström, «DroneDetectionThesis/Drone-detection-dataset: First release». Zenodo, may 16, 2020. doi: 10.5281/zenodo.5500576.
